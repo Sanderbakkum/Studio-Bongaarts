@@ -1,2 +1,2 @@
 Opdracht Jaar 2 Periode 3
-![Alt text](studiobongaartslogo.png "Title")
+![Bongaartslogo](studiobongaartslogo.png =200 "logo")
