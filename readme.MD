@@ -1,4 +1,4 @@
-<img src="studiobongaartslogo.png" width="200"> <!--Logo--> 
+<img src="images/studiobongaartslogo.png" width="200"> <!--Logo--> 
 
 # Studio Bongaarts
 **Opdracht Jaar 2 Periode 3**<br>
@@ -17,4 +17,4 @@ Studio Bongaarts maken zelf reistassen die door hun speciaal worden ontworpen en
 <br>
 Wireframe: 
 <br><br>
-<img src="wireframe.png"> <!--Wireframe-->
+<img src="images/wireframe.png"> <!--Wireframe-->
