@@ -5,6 +5,7 @@
 Namen: Amy, Milo, Sander
 <br><br>
 Links:<br>
+[Trello](https://trello.com/b/hSE76ovZ/planning-backlog-studio-bongaarts)<br>
 [Instagram](https://www.instagram.com/studiobongaarts/)
 <br><br>
 Uitleg Opdracht:<br><br>
